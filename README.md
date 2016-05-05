@@ -1,3 +1,3 @@
 # ProjectEuler
 
-These solutions are ProjectEuler+ contest solution that is published by hackerrank.
+These solutions are ProjectEuler+ contest solution that is organized by hackerrank.
