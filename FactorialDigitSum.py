@@ -16,10 +16,7 @@ while T > 0:
     result = fact(int(input()))
     s = 0
     while result != 0:
-        try:
-            s += (result % 10)
-        except:
-            pass
+        s += (result % 10)
         result //= 10
     print(s)
     T -= 1
